@@ -1,0 +1,6 @@
+[submodule "smartbrain-front-end"]
+	path = smartbrain-front-end
+	url = https://github.com/Nizar4790k/smartbrain-front-end.git
+[submodule "smart-brain-api"]
+	path = smart-brain-api
+	url = https://github.com/Nizar4790k/smart-brain-api.git
